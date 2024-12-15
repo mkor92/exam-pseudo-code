@@ -15,14 +15,18 @@ Split the nota räknar ut hur mycket varje vän ska betala på exempelvis en res
 
 
 **Räkna ut**
+
 ![alt text](https://user-images.githubusercontent.com/54267140/108719099-75757500-751f-11eb-8c3b-f80a1dca7956.png)
 
 **Visa summa**
+
 ![alt text](https://user-images.githubusercontent.com/54267140/108719104-76a6a200-751f-11eb-9d43-8d3d7b355793.png)
+
 
 ## VG-nivå - Lewis Carroll Word Puzzle
 
 I denna övning så ska du skapa ett spel baserat på ett ordpussel skapat av Lewis Carroll.
+
 
 ### Vad
 
@@ -36,6 +40,7 @@ Lewis Carroll är förmodligen mest känd som författaren bakom Alice i underla
 
 Han tyckte även om att skapa olika typer av pussel både rena logikpussel men pussel som leker med orden.
 Ett av hans mesta kända pussel heter *Doublets* som du kommer få göra i denna övning.
+
 
 ### Instruktioner
 
@@ -72,11 +77,13 @@ LID (Slutord)
 
 Därefter går du över till att skriva pseudokod för pusslet.
 
+
 #### Tänk på!
 
 Din pseudokod måste innefatta kontroller som kontrollerar användarens input. Användaren får inte:
 * Ange ett ord som inte inkluderas i varaibeln ordbok.
 * Ändra fler eller färre bokstäver än 1 per runda. (Koden för detta MÅSTE abstraheras i en separat funktion)
+
 
 ## Krav
 

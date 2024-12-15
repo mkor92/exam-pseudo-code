@@ -76,7 +76,7 @@ Därefter går du över till att skriva pseudokod för pusslet.
 
 Din pseudokod måste innefatta kontroller som kontrollerar användarens input. Användaren får inte:
 * Ange ett ord som inte inkluderas i varaibeln ordbok.
-* Ändra fler eller färre bokstäver än 1 per runda.
+* Ändra fler eller färre bokstäver än 1 per runda. (Koden för detta MÅSTE abstraheras i en separat funktion)
 
 ## Krav
 

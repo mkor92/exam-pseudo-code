@@ -1,31 +1,36 @@
 // G-Version - Split the Nota
 // Skriv din pseudokod innanför nedanstående kommentarsblock
 /*
+START
 
+    function calculateTip(totalAmount, tipPercentage):
+        Return totalAmount * tipPercentage
 
-*/
+    function calculateTotalToPay(totalAmount, tip):
+        Return totalAmount + tip
 
-// VG-Version - Lewis Carroll Word Puzzle
-// Skriv din pseudokod innanför nedanstående kommentarsblock
-// Startkoden är 100% frivillig och kan tas bort eller skrivas om
-/*
+    function calculateAmountPerFriend(totalToPay, numberOfFriends):
+        Return totalToPay / numberOfFriends
 
-play();
+    // Ask the user for input
+    Print "Summa:"
+    Read totalAmount
 
-function play()
-    SET variabel ordbok = [FOUR, FOUL, FOOL, FOOT, FORT, FORE, FIRE, FIVE]; // Innehåller ALLA ord i det engelska språket
-    SET variabel startOrd till "FOUR";
-    SET variabel slutordOrd till "FIVE";
+    Print "Antal vänner:"
+    Read numberOfFriends
 
+    Print "Dricks:"
+    Read tipPercentage (tip percentage as a decimal (example 10% = 0.10))
 
-end function
+    // Calculate the tip, total amount to pay, and amount per friend
+    tip = calculateTip(totalAmount, tipPercentage)
+    totalToPay = calculateTotalToPay(totalAmount, tip)
+    amountPerFriend = calculateAmountPerFriend(totalToPay, numberOfFriends)
 
-function isOneLetterApart(wordOne, wordTwo)
-    SET variabel diffCount till 0;
+    // Display the result
+    Print "Varje person ska betala:" + amountPerFriend
 
-    // Här behöver du skriva koden för din funktion
+END
 
-    return diffCount === 1; // returnerar sant om endast en bokstav ändrats, annars falskt
-end function
 
 */

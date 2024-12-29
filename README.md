@@ -103,4 +103,4 @@ Din pseudokod måste innefatta kontroller som kontrollerar användarens input. A
 
 ## Inlämning
 
-Uppladdning av ditt repo på Github senast **20/12 23:59**! Ta en printscreen över ditt / dina flödesdiagram och klistra in i readme-filen i ditt repo.
+![alt text](/flowchart.png)
